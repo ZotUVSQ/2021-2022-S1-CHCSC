@@ -11,7 +11,7 @@ main:
     url: '/course'
     weight: 20
     identifier: courses
-  - name: Data science
+  - name: Zotero
     url: '/course/example/'
     weight: 10
     parent: courses
